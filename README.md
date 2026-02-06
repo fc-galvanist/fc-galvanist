@@ -8,7 +8,7 @@ Our Manifesto:
     and procedural variability in software [non linearity, randomness] can be used to produce desirable imperfections in our products.  
     
 3.  We share everything - We release our Software under GPLv3, our hardware under CERN-OHL-S-2.0 and our documents and images under Creative Commons (CC BY-SA 4.0)
-4.  We publish and we implment - We believe in defensive prior art
+4.  We publish and we implement - We believe in defensive prior art
 5.  We believe in transparency, provenance and chains of custody - We embrace the Neural/AI revolution, but we do not embrace the murky lack of provenence used in training models.
     The ethical hazard of using unauthorised code to train models for commercial gain is a great problem of our time.
     We use only material that is appropriately licenced, we upload it, we use hashes to validate the files we use. 
