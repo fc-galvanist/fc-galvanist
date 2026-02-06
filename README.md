@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+We are the Ferric Collective.  We believe imperfection
+
+Our Manifesto:
+1.  Imperfection is a feature
+2.  We share everything - We release our Software under GPLv3. and our hardware under CERN-OHL-S-2.0
+3.  We publish and we implment - We believe in defensive prior art
+
 <!--
 **fc-galvanist/fc-galvanist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
